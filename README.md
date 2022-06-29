@@ -1,6 +1,6 @@
 
 ### Hi there 👋
-
+![](https://komarev.com/ghpvc/?username=your-Pruthvi2121&color=dc143c)
 
 [![MasterHead](https://github.com/Pruthvi2121/Pruthvi2121/blob/main/statics/Wallpaper%201.gif?raw=true)](https://Pruthvi2121.io)
 <h1 align="center">Hi 👋, I'm Pruthviraj Chokake</h1>
