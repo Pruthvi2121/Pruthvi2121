@@ -39,11 +39,11 @@
 <img align="left" alt="Coding" width="300" src="https://github.com/Pruthvi2121/Pruthvi2121/blob/main/statics/contact%20circle.gif?raw=true">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="d" height="30" width="40" />tweeter</a><br><br>
-<a href="https://linkedin.com/in/b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="b" height="30" width="40" />linkedin</a><br><br>
-<a href="https://instagram.com/c" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="c" height="30" width="40" />Instagram</a><br><br>
-<a href="https://www.youtube.com/c/f" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="f" height="30" width="40" />Youtube</a><br><br>
-<a href="https://www.hackerrank.com/d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="d" height="30" width="40" />Hackerrank</a>
+<a href="https://twitter.com/pocoerror" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="d" height="30" width="40" />tweeter</a><br><br>
+<a href="https://www.linkedin.com/in/pruthviraj-chokake-82a594231/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="b" height="30" width="40" />linkedin</a><br><br>
+<a href="https://www.instagram.com/pocoerror/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="c" height="30" width="40" />Instagram</a><br><br>
+<a href="https://www.youtube.com/channel/UCziDxmJ-DGS_HAxn4J4br9g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="f" height="30" width="40" />Youtube</a><br><br>
+<a href="https://www.hackerrank.com/chokake_pruthvi?h_r=internal-search&hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="d" height="30" width="40" />Hackerrank</a>
 </p>
 
 
