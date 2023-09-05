@@ -12,7 +12,7 @@
 
 <p align="center">
   <br><br>
-<h6></h6>-🔭 I’m currently working on <strong>Ty Project</strong>
+<h6></h6>-🔭 I’m currently working on <strong> Web Development Internship</strong>
   <br>
 - 🌱 I’m currently learning <strong> Programming</strong>
   <br>
