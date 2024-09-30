@@ -4,7 +4,7 @@
 
 [![MasterHead](https://github.com/Pruthvi2121/Pruthvi2121/blob/main/statics/Wallpaper%201.gif?raw=true)](https://Pruthvi2121.io)
 <h1 align="center">Hi 👋, I'm Pruthviraj Chokake</h1>
-<h3 align="center">A passionate programmer from India</h3>
+<h3 align="center">A passionate full-stack developer from India</h3>
 
 
 <img align="left" alt="Coding" width="400" src="https://github.com/Pruthvi2121/Pruthvi2121/blob/main/statics/output-onlinegiftools%20(4).gif?raw=true">
@@ -12,15 +12,15 @@
 
 <p align="center">
   <br><br>
-<h6></h6>-🔭 I’m currently working on <strong> Web Development Internship</strong>
+<h6></h6>- 🔭 I’m currently working as a Full Stack Developer at <strong>Yestoideas PVT LTD</strong> (Django, React-JS)</strong>
   <br>
-- 🌱 I’m currently learning <strong> Programming</strong>
+- 🌱 I’m currently learning <strong>Advanced Web Development, Full Stack Development</strong>
   <br>
-- 💬 Ask me about <strong>Anything related coding</strong>
+ - 💬 Ask me about <strong>Full Stack Development, Python, Django, React</strong>
   <br>
-- 📫 How to reach me <strong> chokake.pruthvi@gmail.com</strong>
+- 📫 How to reach me: <strong>chokake.pruthvi@gmail.com</strong>
   <br>
-- ⚡ Fun fact  <strong>I love in exploreing new things</strong></p>
+- ⚡ Fun fact: <strong>I love exploring new tech and automating tasks!</strong></p>
 <br>
 <img align="right" alt="Coding" width="400" src="https://github.com/Pruthvi2121/Pruthvi2121/blob/main/statics/output-onlinegiftools.gif?raw=true">
 
